@@ -1,6 +1,8 @@
+// CALLBACKS
 console.log('Inicio del programa');
 // esto nos sirve para ejecutar algo en en un determinado tiempo
-// y a ese algo es un callbaack
+// y a ese algo es un callback
+
 setTimeout(function() {
     console.log('Primer TimeOut');
 }, 3000);
